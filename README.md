@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on data analysis project<br>worked with EDA .<br>currently upskilling myself with datascience.
+i'm currently working on data analysis project<br>worked with EDA .<br>currently upskilling myself with the datascience.
 
 
 ## 🌐 Socials:
